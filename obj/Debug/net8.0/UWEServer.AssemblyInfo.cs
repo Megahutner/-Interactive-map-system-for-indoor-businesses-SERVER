@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UWEServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4e8a86035d55b1ef9277cd89dd8411f598f9997")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65b01dfd0a99ef49c6b6f16b481ae421ba3fe269")]
 [assembly: System.Reflection.AssemblyProductAttribute("UWEServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UWEServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
