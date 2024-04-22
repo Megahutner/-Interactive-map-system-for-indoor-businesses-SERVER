@@ -4653,11 +4653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\UWEServer\\UWEServer.csproj",
+      "projectUniqueName": "C:\\UWE_Thesis\\UWEServer\\UWEServer.csproj",
       "projectName": "UWEServer",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\UWEServer\\UWEServer.csproj",
+      "projectPath": "C:\\UWE_Thesis\\UWEServer\\UWEServer.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\UWEServer\\obj\\",
+      "outputPath": "C:\\UWE_Thesis\\UWEServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

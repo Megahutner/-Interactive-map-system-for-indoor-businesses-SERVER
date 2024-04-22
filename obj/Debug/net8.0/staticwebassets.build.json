@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "B8KY9RXqlsv53Zjm3geRXS9m+fDL3KJzl6POeEy2XS4=",
+  "Hash": "5VfjZEiCVKLpEpqsT6lYNNAlxIu3yp5ocrZAToxfjoU=",
   "Source": "UWEServer",
   "BasePath": "_content/UWEServer",
   "Mode": "Default",
@@ -10,17 +10,36 @@
     {
       "Name": "UWEServer\\wwwroot",
       "Source": "UWEServer",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\",
+      "ContentRoot": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\",
       "BasePath": "_content/UWEServer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\UWE .png",
+      "Identity": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Demo Zone 2.png",
       "SourceId": "UWEServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\",
+      "ContentRoot": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\",
+      "BasePath": "_content/UWEServer",
+      "RelativePath": "Uploads/Zone/Demo Zone 2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Zone\\Demo Zone 2.png"
+    },
+    {
+      "Identity": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\UWE .png",
+      "SourceId": "UWEServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\",
       "BasePath": "_content/UWEServer",
       "RelativePath": "Uploads/Zone/UWE .png",
       "AssetKind": "All",
@@ -36,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Zone\\UWE .png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone 2.jpg",
+      "Identity": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone 2.jpg",
       "SourceId": "UWEServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\",
+      "ContentRoot": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\",
       "BasePath": "_content/UWEServer",
       "RelativePath": "Uploads/Zone/Zone 2.jpg",
       "AssetKind": "All",
@@ -55,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Zone\\Zone 2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1.png",
+      "Identity": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1.png",
       "SourceId": "UWEServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\",
+      "ContentRoot": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\",
       "BasePath": "_content/UWEServer",
       "RelativePath": "Uploads/Zone/Zone1.png",
       "AssetKind": "All",
@@ -74,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\Zone\\Zone1.png"
     },
     {
-      "Identity": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1_1.png",
+      "Identity": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1_1.png",
       "SourceId": "UWEServer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\",
+      "ContentRoot": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\",
       "BasePath": "_content/UWEServer",
       "RelativePath": "Uploads/Zone/Zone1_1.png",
       "AssetKind": "All",

@@ -1,19 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\UWE .png",
+      "Id": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Demo Zone 2.png",
+      "PackagePath": "staticwebassets\\Uploads\\Zone\\Demo Zone 2.png"
+    },
+    {
+      "Id": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\UWE .png",
       "PackagePath": "staticwebassets\\Uploads\\Zone\\UWE .png"
     },
     {
-      "Id": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone 2.jpg",
+      "Id": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone 2.jpg",
       "PackagePath": "staticwebassets\\Uploads\\Zone\\Zone 2.jpg"
     },
     {
-      "Id": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1.png",
+      "Id": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1.png",
       "PackagePath": "staticwebassets\\Uploads\\Zone\\Zone1.png"
     },
     {
-      "Id": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1_1.png",
+      "Id": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1_1.png",
       "PackagePath": "staticwebassets\\Uploads\\Zone\\Zone1_1.png"
     },
     {

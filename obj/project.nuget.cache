@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7wC4XppRYa2P36b9OtJW1cGPpu/zbM418iUr5lw+WIbnCFuRUFUlHdzKc2u6mKx/b3nhisSiqruyJ0jbEdzcnw==",
+  "dgSpecHash": "blKaTlo3PXkTcFQIzRYjH9IMiSDXMaKVo8S3SFFgtTcSFQRl3erk4mvdsUv1SxU2qdmqJTZ878ih7QCqJSYuYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\UWEServer\\UWEServer.csproj",
+  "projectFilePath": "C:\\UWE_Thesis\\UWEServer\\UWEServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
