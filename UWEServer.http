@@ -1,0 +1,6 @@
+@UWEServer_HostAddress = https://localhost:7107
+
+GET {{UWEServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

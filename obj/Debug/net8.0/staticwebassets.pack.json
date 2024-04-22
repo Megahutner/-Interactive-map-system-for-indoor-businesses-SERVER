@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\UWE .png",
+      "PackagePath": "staticwebassets\\Uploads\\Zone\\UWE .png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone 2.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Zone\\Zone 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1.png",
+      "PackagePath": "staticwebassets\\Uploads\\Zone\\Zone1.png"
+    },
+    {
+      "Id": "C:\\Users\\Admin\\source\\repos\\UWEServer\\wwwroot\\Uploads\\Zone\\Zone1_1.png",
+      "PackagePath": "staticwebassets\\Uploads\\Zone\\Zone1_1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UWEServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UWEServer.props",
+      "PackagePath": "build\\UWEServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UWEServer.props",
+      "PackagePath": "buildMultiTargeting\\UWEServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UWEServer.props",
+      "PackagePath": "buildTransitive\\UWEServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
