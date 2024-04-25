@@ -317,9 +317,9 @@ namespace UWEServer.Controllers
         /// Get zone details
         /// </summary>
         /// <returns></returns>
-        [Route("get-zone-info")]
+        [Route("kiosk/get-zone-details")]
         [HttpGet]
-        public ApiJsonResult GetZoneInfo(string zoneId)
+        public ApiJsonResult KioskGetZoneDetails(string zoneId)
         {
             {
                 try
