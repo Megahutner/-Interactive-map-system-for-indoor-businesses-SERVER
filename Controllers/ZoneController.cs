@@ -468,6 +468,7 @@ namespace UWEServer.Controllers
                             {
                                 if (ob.Id == terminal.Id)
                                 {
+                                    terminal.Name = ob.Name;
                                     terminal.Latitude = ob.Lat;
                                     terminal.Longtitude = ob.Lng;
                                     terminal.Height = ob.Height;

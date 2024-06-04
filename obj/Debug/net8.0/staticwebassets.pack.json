@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\Uploads\\Zone\\Demo Zone 2.png"
     },
     {
+      "Id": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Thesis Defense.png",
+      "PackagePath": "staticwebassets\\Uploads\\Zone\\Thesis Defense.png"
+    },
+    {
+      "Id": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\Thesis Defense_1.png",
+      "PackagePath": "staticwebassets\\Uploads\\Zone\\Thesis Defense_1.png"
+    },
+    {
       "Id": "C:\\UWE_Thesis\\UWEServer\\wwwroot\\Uploads\\Zone\\UWE .png",
       "PackagePath": "staticwebassets\\Uploads\\Zone\\UWE .png"
     },
