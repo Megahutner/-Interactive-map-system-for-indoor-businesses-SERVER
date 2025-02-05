@@ -1,4 +1,4 @@
-# UWE Server API
+# Server API for the interactive map system for indoor businesses
 
 Step 1: Install VS Community/Pro
 
